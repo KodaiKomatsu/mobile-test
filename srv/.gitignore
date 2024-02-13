@@ -1,0 +1,5 @@
+/bin/cf-logs*
+/deploy
+/logs
+/target
+/vocabularies
